@@ -18,3 +18,12 @@ CREATE TABLE t_lukas_vavrcik_project_SQL_secondary_final (
     population INT
 );
 
+-- STEP2: check, jestli jsou tabulky vytvořené + správný datový typ
+
+SELECT *
+FROM t_lukas_vavrcik_project_SQL_primary_final;
+
+SELECT *
+FROM t_lukas_vavrcik_project_SQL_secondary_final;
+
+
