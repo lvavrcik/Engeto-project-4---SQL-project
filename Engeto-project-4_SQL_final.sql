@@ -26,4 +26,18 @@ FROM t_lukas_vavrcik_project_SQL_primary_final;
 SELECT *
 FROM t_lukas_vavrcik_project_SQL_secondary_final;
 
+/*STEP 3: zjištění srovnatelných období z tabulek:
+- czechia_price
+- czechia_payroll
+*/
+SELECT DISTINCT 
+	MIN(date_from) AS min,
+	MAX(date_from) AS max
+FROM czechia_price as cp
+UNION
+SELECT DISTINCT 
+	MIN(payroll_year) as min_cpay,
+	MAX(payroll_year) as max_cpay
+FROM czechia_payroll as cpay
+;
 
