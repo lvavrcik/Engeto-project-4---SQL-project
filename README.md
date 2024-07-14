@@ -2,7 +2,7 @@
 Code for SQL project
 
 > **Čeština:**  
-> [Přečtěte si českou verzi README](README_en.md)
+> [Přečtěte si českou verzi README](README_cs.md)
 
 
 # Availability of staple foods to the general public #
