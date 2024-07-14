@@ -1,5 +1,5 @@
 # Engeto-project-4---SQL-project
-Code for SQL project
+Kód pro SQL projekt
 
 # Dostupnost základních potravin široké veřejnosti #
 ## Popis projektu ##
