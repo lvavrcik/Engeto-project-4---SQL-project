@@ -5,7 +5,7 @@ email: lukasvavrcik@gmail.com
 discord: lukardi.
 */
 
--- vytvoření tabulky 1 - t_{jmeno}_{prijmeni}_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky)
+-- STEP1: Primary table creation - t_{jmeno}_{prijmeni}_project_SQL_primary_final (for wage and food price data for the Czech Republic aggregated to the same comparable period - common years)
 CREATE TABLE t_lukas_vavrcik_project_SQL_primary_final AS
 WITH AvgSalaries AS (
     SELECT 
@@ -65,7 +65,7 @@ JOIN
 LEFT JOIN 
     GDPData g ON a.year = g.year;
 
--- vytvoření tabulky 2 - t_{jmeno}_{prijmeni}_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech)
+-- STEP2: Secondary table creation - t_{jmeno}_{prijmeni}_project_SQL_secondary_final (for additional data about other European countries)
 CREATE TABLE t_lukas_vavrcik_project_SQL_secondary_final AS
 WITH Europe AS (
     SELECT
@@ -91,8 +91,7 @@ WHERE
 ORDER BY 
     e.country, e.year;
 
--- STEP2: check, jestli jsou tabulky vytvořené + správný datový typ
-
+-- STEP3: check if tables are created + correct data type
 SELECT *
 FROM t_lukas_vavrcik_project_SQL_primary_final;
 
