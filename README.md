@@ -27,7 +27,11 @@ The datasets used for the project are the tables described above:
 - TABLE 1: for wage and food price data for the Czech Republic aggregated to the same comparable period - common years.
 - TABLE 2: for additional data on other European countries, including GDP, population and GINI coefficient.
 
-Both datasets can be found here [Engeto-project-4_SQL_tables](https://github.com/lvavrcik/Engeto-project-4---SQL-project/blob/main/Engeto-project-4_SQL_tables)
+Both datasets scripts can be found here: [Engeto-project-4_SQL_tables](https://github.com/lvavrcik/Engeto-project-4---SQL-project/blob/main/Engeto-project-4_SQL_tables.sql)
 
 ## SQL script ##
-The SQL script created to work with datasets is stored here: 
+The SQL scripts created to work with datasets are stored in five different files withing this repository (1st - 5th_SQL_code).
+
+## Answering the questions ##
+### 1. Have wages in all the sectors been rising over the years, or have they been falling in some? ###
+Test
