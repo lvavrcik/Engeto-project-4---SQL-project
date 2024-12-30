@@ -27,5 +27,7 @@ The datasets used for the project are the tables described above:
 - TABLE 1: for wage and food price data for the Czech Republic aggregated to the same comparable period - common years.
 - TABLE 2: for additional data on other European countries, including GDP, population and GINI coefficient.
 
+Both datasets can be found here [Engeto-project-4_SQL_tables](https://github.com/lvavrcik/Engeto-project-4---SQL-project/blob/main/Engeto-project-4_SQL_tables)
+
 ## SQL script ##
 The SQL script created to work with datasets is stored here: 
