@@ -34,4 +34,12 @@ The SQL scripts created to work with datasets are stored in five different files
 
 ## Answering the questions ##
 ### 1. Have wages in all the sectors been rising over the years, or have they been falling in some? ###
-Test
+According to the data, wages have been rising over the years in most sectors. The weakest sector is Mining and Quarrying, where wages have risen in 8 out of 12 years.
+
+### 2. How many litres of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data? ###
+We consider the first (2006) and the last comparable periods (2018).
+In 2006, the average price of one litre of milk (code 114201) was 14.44,- Kč (CZK). In the same year, the average price of pne kilogram of bread (code 111301) was 16.12,- Kč (CZK). The average wage in 2006 was 20 677,- Kč (CZK) (wages measured regardless of the type of industry). 
+In view of the above, it was possible to buy 1432 litres of milk and 1282 kg of bread in 2006.
+
+In 2018, the average price of one litre of milk (code 114201) was 19.82,- Kč (CZK) (an increase of 37.26 % compared to 2006). In the same year, the average price of bread (code 111301) was 24.24,- Kč (CZK) (an increase of 50.33 % compared to 2006). The average wage in 2018 was 32,485,- Kč (CZK) (wage measured regardless of the type of industry; an increase of 57.11 % compared to 2006). 
+Given the above, it was possible to buy 1,639 litres of milk and 1,340 kg of bread in 2018.
