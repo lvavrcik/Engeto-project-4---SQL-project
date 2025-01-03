@@ -54,5 +54,5 @@ Yes, in 2011 food prices rose by more than 10 % compared to wages.
 ### 5. Does the level of GDP affect changes in wages and food prices? Or, if GDP rises more significantly in one year, will this be reflected in a more significant rise in food prices or wages in the same or the following year? ###
 We don't know the definition of "stronger GDP growth", but we can help by calculating the average GDP over the entire measurable period (1990-2020), which gives us a figure of 1.82 %. So I reckon that "stronger GDP growth" will be above that average. For a better example, I consider 3 % of GDP.
 
-We can certainly say that if GDP increases by more than 3 %, we can observe a change in prices and wages in the following years, somewhere in excess of 5 %. Conversely, if there is no change in GDP above 3 %, there is no such change in prices and wages (of more than 5 %).
+We can say that if GDP increases by more than 3 %, we can observe a change in prices and wages in the following years, somewhere in excess of 5 %. Conversely, if there is no change in GDP above 3 %, there is no such change in prices and wages (of more than 5 %).
 However, it cannot be said with certainty that there is a clear pattern that can be observed that applies in all cases.
