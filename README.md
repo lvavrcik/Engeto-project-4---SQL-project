@@ -42,4 +42,16 @@ In 2006, the average price of one litre of milk (code 114201) was 14.44,- Kč (C
 In view of the above, it was possible to buy 1432 litres of milk and 1282 kg of bread in 2006.
 
 In 2018, the average price of one litre of milk (code 114201) was 19.82,- Kč (CZK) (an increase of 37.26 % compared to 2006). In the same year, the average price of bread (code 111301) was 24.24,- Kč (CZK) (an increase of 50.33 % compared to 2006). The average wage in 2018 was 32,485,- Kč (CZK) (wage measured regardless of the type of industry; an increase of 57.11 % compared to 2006). 
-Given the above, it was possible to buy 1,639 litres of milk and 1,340 kg of bread in 2018.
+Given the above, it was possible to buy 1639 litres of milk and 1340 kg of bread in 2018.
+
+### 3. Which category of food is becoming more expensive at the slowest rate (lowest percentage increase year-on-year)? ###
+If we compare the two food categories mentioned above - bread and milk, milk is becoming more expensive at a slower rate - 2.98 % per year.
+
+### 4. Is there any year in which the annual increase in food prices was significantly higher than wage growth (greater than 10%)? ###
+Yes, in 2011 food prices rose by more than 10 % compared to wages.
+
+### 5. Does the level of GDP affect changes in wages and food prices? Or, if GDP rises more significantly in one year, will this be reflected in a more significant rise in food prices or wages in the same or the following year? ###
+We don't know the definition of "stronger GDP growth", but we can help by calculating the average GDP over the entire measurable period (1990-2020), which gives us a figure of 1.82 %. So I reckon that "stronger GDP growth" will be above that average. For a better example, I consider 3 % of GDP.
+
+We can certainly say that if GDP increases by more than 3 %, we can observe a change in prices and wages in the following years, somewhere in excess of 5 %. Conversely, if there is no change in GDP above 3 %, there is no such change in prices and wages (of more than 5 %).
+However, it cannot be said with certainty that there is a clear pattern that can be observed that applies in all cases.
