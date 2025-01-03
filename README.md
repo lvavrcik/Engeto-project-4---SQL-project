@@ -31,6 +31,7 @@ Both datasets scripts can be found here: [Engeto-project-4_SQL_tables](https://g
 
 ## SQL script ##
 The SQL scripts created to work with datasets are stored in five different files withing this repository (1st - 5th_SQL_code).
+Each SQL script corresponds to a specific research question (example: 1st_SQL_code.sql contains the script corresponding to the first research question).
 
 ## Answering the questions ##
 ### 1. Have wages in all the sectors been rising over the years, or have they been falling in some? ###
